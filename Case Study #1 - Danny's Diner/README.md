@@ -49,8 +49,9 @@ Recreate the following table output using the available data:
 Danny also requires further information about the ranking of customer products, but he purposely does not need the ranking for non-member purchases so he expects null ranking values for the records when customers are not yet part of the loyalty program.
 ![image](https://github.com/user-attachments/assets/475b3918-193b-43fb-82bb-e9ee7ca285d3)
 
-##Solution 
-[click here](
+## Solution 
+[click here](https://github.com/BiruktawitY/8-week-SQL-challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md)
+
 
 
 
