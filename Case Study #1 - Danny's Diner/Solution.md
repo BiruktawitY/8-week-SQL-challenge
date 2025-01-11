@@ -192,5 +192,3 @@ FROM joined;
 **Output**:\
 ![image](https://github.com/user-attachments/assets/f6e63219-e380-44a1-b238-e0b8878aca35)
 
-🍛
-
