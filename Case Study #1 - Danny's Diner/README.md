@@ -1,4 +1,4 @@
-# CASE STUDY #1- Danny's Diner
+# CASE STUDY #1- Danny's Diner 🍛🍜🍣
 ![image](https://github.com/user-attachments/assets/d6e0568c-411b-41a5-ae72-ea836f30556c)
 
 ## Introduction 
@@ -24,7 +24,7 @@ The `members` table captures the `join_date` when a `customer_id` joined the bet
 ![image](https://github.com/user-attachments/assets/cc2e4c18-5d4a-4aa0-bc29-504085aed986)
 
 ## Data source: 
- [click here](https://8weeksqlchallenge.com/case-study-1/)
+THis dataset is part of the [8-Week SQL Challenge](https://8weeksqlchallenge.com/case-study-1/)
 
 ## Task Question
 1. What is the total amount each customer spent at the restaurant?\
@@ -50,7 +50,8 @@ Danny also requires further information about the ranking of customer products, 
 ![image](https://github.com/user-attachments/assets/475b3918-193b-43fb-82bb-e9ee7ca285d3)
 
 ## Solution 
-[click here](https://github.com/BiruktawitY/8-week-SQL-challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md)
+The solution includes SQL queries and analysis to address all the above questions.\
+[View the full solution here](https://github.com/BiruktawitY/8-week-SQL-challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md)
 
 
 
