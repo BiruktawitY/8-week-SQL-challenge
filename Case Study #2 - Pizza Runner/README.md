@@ -3,6 +3,8 @@
 
 ## Table Of Contents
  - [Introduction](#introduction)
+ - [Data Cleaning](#data-cleaning)
+ - [Skills applied](#skills-applied)
  - [Data](#data)
  - [Entity Relationship Diagram](#entity-relationship-diagram)
  - [Case Study Questions](#case-study-questions)
@@ -13,6 +15,9 @@
 Danny was scrolling through his Instagram feed when something really caught his eye - "80s Retro Styling and Pizza Is the Future!". \
 Danny was sold on the idea, but he knew that pizza alone was not going to help him get seed funding to expand his new Pizza Empire - so he had one more genius idea to combine with it, he was going to *Uberize* it, and so Pizza Runner was launche!\
 Danny started by recruitng "runners" to deliver fresh pizza from Pizza Runner Headquarters(otherwise known as Danny's house) and also maxed out his credit card to pay freelance developers to build a mobile app to accept orders from customers.
+
+## Data Cleaning
+For detailed steps on how I prepared and cleaned some of the tables used our analysis, please click [here](https://github.com/BiruktawitY/8-week-SQL-challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Solution(.md)/Data_cleaning.md)
 
 ## Skills applied
 The topics relevant to this case study are:
@@ -106,9 +111,6 @@ This case study is broken up by areas of foucses including:
 5. If a Meat Lovers pizza was $12 and Vegetarian $10 fixed prices with no cost for extras and each runner is paid $0.30 per kilometre traveled - how much money does Pizza Runner have left over after these deliveries?
    
  [View my solution here for Pricing and Ratings](https://github.com/BiruktawitY/8-week-SQL-challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Solution(.md)/D.%20Pricing%20and%20Ratings.md)
-
- ### E. Bonus Questions
- If Danny wants to expand his range of pizzas - how would this impact the existing data design? Write an `INSERT` statement to demonstrate what would happen if a new `Supreme` pizza with all the toppings was added to the Pizza Runner menu?
 
  ## Solutions 
  - View the full syntax [here](https://github.com/BiruktawitY/8-week-SQL-challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner/Solution(.sql))
